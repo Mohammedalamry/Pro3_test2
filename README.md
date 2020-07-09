@@ -54,7 +54,7 @@ This website will be able to give you a nice tour and gerate idea of each countr
 - Mohammed Alamry.
  
 # GitHube Link: 
-https://github.com/Mohammedalamry/Pro3_test2
+https://github.com/Mohammedalamry/project3-Travel-App
 
 # Youtube Link:
 https://youtu.be/Dyy0ppwsZJ4 
